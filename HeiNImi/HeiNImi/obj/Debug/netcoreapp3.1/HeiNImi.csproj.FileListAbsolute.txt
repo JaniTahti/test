@@ -1,0 +1,12 @@
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.exe
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.deps.json
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.runtimeconfig.json
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.runtimeconfig.dev.json
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.dll
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\bin\Debug\netcoreapp3.1\HeiNImi.pdb
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.AssemblyInfoInputs.cache
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.AssemblyInfo.cs
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.csproj.CoreCompileInputs.cache
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.dll
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.pdb
+C:\Users\janit\source\repos\HeiNImi\HeiNImi\obj\Debug\netcoreapp3.1\HeiNImi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.exe
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.deps.json
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.runtimeconfig.json
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.runtimeconfig.dev.json
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.dll
+C:\Users\janit\source\repos\imiN\imiN\bin\Debug\netcoreapp3.1\imiN.pdb
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.csprojAssemblyReference.cache
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.AssemblyInfoInputs.cache
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.AssemblyInfo.cs
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.csproj.CoreCompileInputs.cache
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.dll
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.pdb
+C:\Users\janit\source\repos\imiN\imiN\obj\Debug\netcoreapp3.1\imiN.genruntimeconfig.cache

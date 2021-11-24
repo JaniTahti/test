@@ -1,0 +1,7 @@
+C:\Users\janit\source\repos\Console 1\Console 1\bin\Debug\Console 1.exe.config
+C:\Users\janit\source\repos\Console 1\Console 1\bin\Debug\Console 1.exe
+C:\Users\janit\source\repos\Console 1\Console 1\bin\Debug\Console 1.pdb
+C:\Users\janit\source\repos\Console 1\Console 1\obj\Debug\Console 1.csprojAssemblyReference.cache
+C:\Users\janit\source\repos\Console 1\Console 1\obj\Debug\Console 1.csproj.CoreCompileInputs.cache
+C:\Users\janit\source\repos\Console 1\Console 1\obj\Debug\Console 1.exe
+C:\Users\janit\source\repos\Console 1\Console 1\obj\Debug\Console 1.pdb

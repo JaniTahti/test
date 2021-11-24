@@ -1,0 +1,12 @@
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.exe
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.deps.json
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.runtimeconfig.json
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.runtimeconfig.dev.json
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.dll
+C:\Users\janit\source\repos\sanaLength\sanaLength\bin\Debug\netcoreapp3.1\sanaLength.pdb
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.AssemblyInfoInputs.cache
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.AssemblyInfo.cs
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.csproj.CoreCompileInputs.cache
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.dll
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.pdb
+C:\Users\janit\source\repos\sanaLength\sanaLength\obj\Debug\netcoreapp3.1\sanaLength.genruntimeconfig.cache
